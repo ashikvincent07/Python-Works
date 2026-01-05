@@ -1,0 +1,13 @@
+menu :
+    breakfast :
+        tea
+        coffee
+        idly
+        dosa
+    lunch :
+        biriyani
+        meals
+    dinner :
+        shawarma
+        alfaham
+        mandhi

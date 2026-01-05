@@ -1,0 +1,8 @@
+[2025-02-10 12:44:00] INFO System rebooted
+[2025-02-10 13:25:45] INFO Backup process started
+[2025-02-10 14:11:05] INFO Backup completed successfully
+[2025-02-10 15:10:00] INFO User 'admin' logged in
+[2025-02-10 16:10:52] INFO Scheduled scan started
+[2025-02-10 16:55:10] INFO Scheduled scan completed
+[2025-02-10 18:12:27] INFO User 'guest' logged out
+[2025-02-10 19:50:33] INFO Service 'nginx' restarted

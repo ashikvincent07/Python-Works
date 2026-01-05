@@ -1,0 +1,20 @@
+[2025-02-10 10:24:33] ERROR Disk read failure
+[2025-02-10 11:18:12] WARNING CPU load high
+[2025-02-10 12:44:00] INFO System rebooted
+[2025-02-10 13:02:19] ERROR Failed to connect to database
+[2025-02-10 13:25:45] INFO Backup process started
+[2025-02-10 13:30:12] WARNING Memory usage above 85%
+[2025-02-10 14:11:05] INFO Backup completed successfully
+[2025-02-10 14:45:29] ERROR Authentication timeout
+[2025-02-10 15:10:00] INFO User 'admin' logged in
+[2025-02-10 15:22:48] WARNING Low disk space on drive C:
+[2025-02-10 15:33:14] ERROR File system corruption detected
+[2025-02-10 16:10:52] INFO Scheduled scan started
+[2025-02-10 16:55:10] INFO Scheduled scan completed
+[2025-02-10 17:05:19] WARNING Unusual network activity detected
+[2025-02-10 17:30:40] ERROR Network interface failure
+[2025-02-10 18:12:27] INFO User 'guest' logged out
+[2025-02-10 18:40:58] WARNING High temperature detected in CPU core 3
+[2025-02-10 19:15:09] ERROR Service 'nginx' stopped unexpectedly
+[2025-02-10 19:50:33] INFO Service 'nginx' restarted
+[2025-02-10 20:22:14] WARNING Delay in DNS response

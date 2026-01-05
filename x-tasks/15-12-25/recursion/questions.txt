@@ -1,0 +1,20 @@
+Write a recursive function to print numbers from 1 to N.
+
+Write a recursive function to find the sum of first N natural numbers.
+
+Write a recursive function to find the factorial of a number.
+
+Write a recursive function to find the Nth Fibonacci number.
+
+Write a recursive function to count the number of digits in a given number.
+
+Write a recursive function to find the sum of digits of a number.
+
+Write a recursive function to reverse a number.
+
+Write a recursive function to check whether a string is a palindrome.
+
+Write a recursive function to find the power of a number
+Example: power(2, 5) → 32
+
+Write a recursive function to find the greatest common divisor (GCD) of two numbers.

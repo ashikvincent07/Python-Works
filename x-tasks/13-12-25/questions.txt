@@ -1,0 +1,19 @@
+Which department has the highest average salary?
+
+Which job role shows the maximum salary variation?
+
+What is the average salary by experience level?
+
+Which location pays the highest median salary?
+
+Is there a noticeable salary difference between genders?
+
+Which department contributes the most to total salary cost?
+
+How does salary grow with years of experience?
+
+Which education level is associated with the highest average salary?
+
+Identify the top 5 highest-paid employees and their departments.
+
+Which job role has the fastest salary growth trend over experience years?

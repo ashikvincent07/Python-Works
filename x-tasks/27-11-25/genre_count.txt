@@ -1,0 +1,10 @@
+Romance : 13
+Comedy : 41
+Drama : 13
+Animation : 4
+Fantasy : 1
+Romence : 1
+Comdy : 1
+Action : 1
+romance : 1
+comedy : 1

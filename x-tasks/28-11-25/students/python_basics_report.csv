@@ -1,0 +1,10 @@
+1. Which social media platform shows the highest average anxiety and stress levels among users?
+2. Which age group spends the most time on social media relative to their total daily screen time?
+3. Which gender reports the lowest sleep hours on average across the dataset?
+4. Which platform has users with the highest number of negative interactions?
+5. Does increased daily screen time correlate more strongly with anxiety_level or stress_level?
+6. Which group (by mental_state) has the highest average physical activity per day?
+7. Which platform’s users show the largest gap between positive and negative interactions?
+8. Are users with high mood_level concentrated on any specific platform or age group?
+9. Which day or date range shows the highest average screen time across all users?
+10. Which factor (sleep_hours, physical_activity_min, positive_interactions_count) appears most associated with a “Stressed” mental_state?

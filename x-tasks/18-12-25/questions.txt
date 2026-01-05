@@ -1,0 +1,19 @@
+Which product category generates the highest total revenue, and how does it compare to the overall average category revenue?
+
+Do digital payment methods outperform Cash on Delivery in terms of total revenue and order volume, and by what margin?
+
+How does average order value vary across different months, and which month shows the strongest performance?
+
+Which Indian state records the highest sales revenue, and how does its customer count compare with other top-performing states?
+
+Is there a noticeable relationship between delivery status (Delivered, Pending, Returned) and total revenue contribution?
+
+Which product category shows the highest return rate, and how does its return value compare to other categories?
+
+Do customers with higher purchase frequency contribute disproportionately more revenue compared to lower-frequency customers?
+
+Which payment method has the highest average revenue per transaction, and how does it compare with other methods?
+
+Are high-value orders (Orders > 100K INR) a significant contributor to total revenue relative to their order count?
+
+Does the combination of high customer count and high average order value lead to higher state-wise sales compared to states strong in only one of these factors?

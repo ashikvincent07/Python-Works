@@ -1,0 +1,19 @@
+Which country of origin has the highest average dog longevity, and how does it compare to the global average?
+
+Which breed shows the widest height range, indicating the highest physical variation?
+
+What is the average longevity by country of origin, and which countries consistently produce longer-living breeds?
+
+Do larger dog breeds (by height) tend to have shorter lifespans compared to smaller breeds?
+
+Which fur color combinations are associated with the highest average longevity?
+
+Which common health problem appears most frequently across breeds, and which countries report it the most?
+
+Are breeds with multiple character traits (e.g., energetic + intelligent + loyal) associated with longer lifespans than calmer breeds?
+
+Which eye color group (Brown, Blue, mixed) shows the highest average longevity?
+
+Identify the top 5 longest-living dog breeds and their countries of origin.
+
+Which breed group (small, medium, large based on height) shows the highest health-issue diversity?

@@ -1,0 +1,19 @@
+Which age group has the highest average risk of heart disease, and how does it compare to the overall average risk?
+
+Do male or female patients show a higher prevalence of heart disease, and by what margin?
+
+How does cholesterol level vary between patients with and without heart disease?
+
+Which chest pain type is most strongly associated with heart disease occurrence?
+
+Is there a relationship between maximum heart rate achieved and the likelihood of heart disease?
+
+Do patients with exercise-induced angina show a higher heart disease rate compared to those without it?
+
+How does resting blood pressure differ across heart disease positive and negative cases?
+
+Which fasting blood sugar category (>120 mg/dl vs normal) shows a higher heart disease incidence?
+
+Identify the top 5 highest-risk age values (or age ranges) based on heart disease frequency.
+
+Does the combination of multiple risk factors (high cholesterol + high BP + older age) significantly increase heart disease probability compared to single risk factors?

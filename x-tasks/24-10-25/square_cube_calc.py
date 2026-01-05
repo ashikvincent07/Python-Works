@@ -1,0 +1,7 @@
+number = int(input("Enter number: "))
+
+square = number ** 2
+
+cube = number ** 3
+
+print(f"Square = {square}\nCube = {cube}")

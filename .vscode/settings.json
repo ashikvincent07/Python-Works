@@ -1,0 +1,9 @@
+{
+    "python-envs.pythonProjects": [
+        {
+            "path": "x-tasks/19-11-25",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
+    ]
+}
