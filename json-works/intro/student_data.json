@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1001,
+        "name": "Sarah Chen",
+        "email": "s.chen@university.edu",
+        "major": "Data Science",
+        "gpa": 3.92,
+        "is_full_time": true,
+        "interests": ["Machine Learning", "Statistics", "Tennis"]
+    },
+    {
+        "id": 1002,
+        "name": "Jordan Miller",
+        "email": "j.miller@university.edu",
+        "major": "Graphic Design",
+        "gpa": 3.45,
+        "is_full_time": true,
+        "interests": ["Typography", "Photography"]
+    },
+    {
+        "id": 1003,
+        "name": "Amara Okafor",
+        "email": "a.okafor@university.edu",
+        "major": "Biology",
+        "gpa": 3.78,
+        "is_full_time": false,
+        "interests": ["Genetics", "Hiking", "Volunteering"]
+    },
+    {
+        "id": 1004,
+        "name": "Liam Wilson",
+        "email": "l.wilson@university.edu",
+        "major": "Mechanical Engineering",
+        "gpa": 3.10,
+        "is_full_time": true,
+        "interests": ["Robotics", "Automotive Design", "Photography"]
+    },
+    {
+        "id": 1005,
+        "name": "Sofia Rossi",
+        "email": "s.rossi@university.edu",
+        "major": "Economics",
+        "gpa": 3.65,
+        "is_full_time": true,
+        "interests": ["Game Theory", "Baking", "History"]
+    }
+]
